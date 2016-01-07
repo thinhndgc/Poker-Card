@@ -20,6 +20,7 @@ public class Main {
 		System.out.println("");
 		System.out.println(" List after swap:");
 		showPokeList(pokerList);
+		System.out.println("");
 		System.out.println(" Dealing poker:");
 		dealPoker(pokerList);
 	}
